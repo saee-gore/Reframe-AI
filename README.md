@@ -19,7 +19,7 @@ Reframe guides users through personalised, structured **Cognitive Behavioural Th
 | Layer | What it does |
 |---|---|
 | **Perception** | Real-time facial emotion awareness — ambient queries inform exercise selection |
-| **LLM** | `tavus-llama` runs the CBT session with tool calling |
+| **LLM** | `tavus-gpt-4.1` runs the CBT session with tool calling |
 | **TTS** | Cartesia voice (optional) or replica default |
 | **Guardrails** | Prevents clinical diagnosis language; blocks off-topic conversation |
 | **VQA** | Vision Q&A enables Reframe to describe what it sees |
