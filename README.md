@@ -2,6 +2,14 @@
 A real-time mental wellness app powered by Tavus Conversational Video Interface (CVI). Users have structured daily CBT check-ins with an empathetic AI video coach that sees emotional cues, remembers past sessions, and escalates to human support when needed.
 
 
+<img width="318" height="297" alt="Screenshot 2026-06-21 at 9 06 22 PM" src="https://github.com/user-attachments/assets/e82afd51-7792-4b6c-8729-dd7fd56c5b77" />
+
+<img width="700" height="363" alt="Screenshot 2026-06-21 at 9 06 35 PM" src="https://github.com/user-attachments/assets/c751fa8c-02e1-4b05-8043-a5f2bc555c29" />
+<img width="543" height="330" alt="Screenshot 2026-06-21 at 9 06 49 PM" src="https://github.com/user-attachments/assets/f54976f8-3fb9-41b8-91d1-bc9d6cdfaae9" />
+
+<img width="545" height="334" alt="Screenshot 2026-06-21 at 9 07 00 PM" src="https://github.com/user-attachments/assets/7e525a2e-8c97-406a-9b37-6c5304fcf12c" />
+
+
 ## What it does
 
 Reframe guides users through personalised, structured **Cognitive Behavioural Therapy check-ins** via live video. Every session follows a clinically-informed structure:
@@ -40,3 +48,4 @@ Reframe guides users through personalised, structured **Cognitive Behavioural Th
 MIT — see `LICENSE` for details.
 
 Built with [Tavus CVI API](https://tavus.io).
+
