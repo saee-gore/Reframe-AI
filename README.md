@@ -34,6 +34,7 @@ Reframe guides users through personalised, structured **Cognitive Behavioural Th
 | `escalate_to_human_support` | Crisis signals detected | Logs alert, sets `session.escalated=true`, returns 988 / 741741 |
 
 ---
+<img width="862" height="737" alt="Screenshot 2026-06-24 at 1 59 15 PM" src="https://github.com/user-attachments/assets/5254c7b9-3976-4f80-9fef-8431349ae40b" />
 
 
 ## License
